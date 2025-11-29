@@ -1,3 +1,7 @@
+# Purpose: specified directory to a backup folder 
+# Author: Chaitanya
+# Date: 29-11-2025
+
 
 SOURCE_DIR="$1"                       
 BACKUP_DIR="$HOME/backups"            
