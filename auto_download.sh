@@ -1,4 +1,7 @@
-#!/bin/bash
+# Purpose: Automatically download a file using wget or curl
+# Author: chaitanya
+# Date: 29-11-2025
+
 DOWNLOAD_URL="$1"                 
 DEST_DIR="$HOME/downloads_auto"   
 
