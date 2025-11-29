@@ -1,3 +1,6 @@
+# Purpose: Log CPU and memory usage at regular intervals
+# Author: Chaitanya
+# Date: 29-11-2025
 
 LOG_FILE="$HOME/system_usage.log" 
 INTERVAL=5                         
